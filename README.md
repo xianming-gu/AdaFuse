@@ -15,3 +15,6 @@ Checkpoint model can be download from [here](https://pan.baidu.com/s/1imC2znDl_I
 
 ## Testing
 Run `test_adafuse.py`
+
+# Updated Model
+AdaFuse is the preliminary result of our method. The Updated method has been published in BSPC2024, please refer to the [link](https://github.com/xianming-gu/ASFE-Fusion).
