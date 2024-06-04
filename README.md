@@ -17,4 +17,4 @@ Checkpoint model can be download from [here](https://pan.baidu.com/s/1imC2znDl_I
 Run `test_adafuse.py`
 
 # Updated Model
-AdaFuse is the preliminary result of our method. The Updated method has been published in BSPC2024, please refer to the [link](https://github.com/xianming-gu/ASFE-Fusion).
+This paper is our internal conference paper, the latest model have been published in Biomedical Signal Processing and Control 2024, please follow [this link](https://github.com/xianming-gu/ASFE-Fusion) to view.
