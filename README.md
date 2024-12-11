@@ -2,6 +2,8 @@
 
 Implementation of "AdaFuse: Adaptive Medical Image Fusion Based on Spatial-Frequential Cross Attention"
 
+This paper is our internal conference paper, the latest model have been published in Biomedical Signal Processing and Control 2024, follow [this link](https://github.com/xianming-gu/ASFE-Fusion) to view.
+
 ## Setup Main Environment
 Python 3.8
 
